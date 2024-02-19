@@ -6,6 +6,6 @@ ilk açıldığında bu şekilde bir pencere göreceksiniz
 
 <div align="center">
     <h3>Ana Sayfa</h3>
-    <img src="https://github.com/yasir723/Simetrik-Agac/assets/111686779/e5731ac5-67f1-4185-a592-6da6eaa20923" width="800">
+    <img src="https://github.com/yasir723/Simetrik-Agac/assets/111686779/2ff6d7de-a758-408e-9b95-889eb013ab01" width="1000">
     <br>
 </div>
