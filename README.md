@@ -78,7 +78,47 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 <div align="center">
     <h3>Bildirimlere İzin Verme</h3>
-    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/5328db75-08c3-4c6d-8ce2-0defc91a1c1b" width="1000">
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/f8cdc159-71ac-48fe-9d9d-2401e74444d4" width="1000">
+    <br>
+</div>
+
+---
+
+* 20 saniye bekledikten sonra ve tarayıcı arka planda çalışmaya başladıktan 10 saniye sonra ders bilgileri güncel olarak programda göreceksiniz ve yeni açıklanan bir ders varsa hem bildirim olarak gelecektir hem de ders listesinde güncel olarak yer alacaktır aynı zamanda yeni açıklanan derslerden geçtiğseniz yeşil kaldığınız dersten kırmızı arka planlı olacaktır, böylece yeni açıklanan dersleri daha hızlı bir şekilde fark etmenize yardımcı olacaktır. Bir diğer yandan son açıklanan dersten eğer geçtiyseniz sol alt panelde devamlı olarak yer alacaktır.
+
+<div align="center">
+    <h3>Programda Ders Listesi</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/e2019ea6-5939-47a9-a8cc-cbbee92cb70c" width="1000">
+    <br>
+</div>
+
+---
+
+* Program açıkken yeni bir ders açıklandığında size bu şekilde bildirim gelecektir, bu bildirimde yeni açıklanan sınav adı ve değeri aynı zamanda bu dersin bilgileri gösterecektir.
+
+<div align="center">
+    <h3>Bildirim</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/503a159b-d617-41e4-b2f6-a727ed550211" width="1000">
+    <br>
+</div>
+
+---
+
+* Programda yer alan ikinci sayfası ise Ayarlar sayfası, Programı kullanırken 6 farklı tema ile kullanabilirsiniz, aynı zamanda ayarlardan programın bilgileri sıfırlayabilirsiniz veya programı kapatıp yeniden başlatabilmek için buttonları yer almaktadır.
+
+<div align="center">
+    <h3>Ayarlar Sayfası</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/2c452f52-ef7a-44c6-b993-ba72cb307846" width="1000">
+    <br>
+</div>
+
+---
+
+* Örnek olarak `Tomato` temasını seçersek bu şekilde olaracaktır
+
+<div align="center">
+    <h3>Tomato Teması</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/2eb1aaf1-35eb-4b43-8d7f-d8fbb7ddd7dc" width="1000">
     <br>
 </div>
 
