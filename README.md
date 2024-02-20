@@ -122,4 +122,34 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
     <br>
 </div>
 
+---
 
+* Programda yer alan üçüncü sayfa ise Yardım sayfası, programın kullanımı için github sayfasına yönlendirecek buttondur
+
+<div align="center">
+    <h3>Yardım Sayfası</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/b9632b57-7c2a-442e-9f02-b61b3a64ac76" width="1000">
+    <br>
+</div>
+
+---
+
+* Yardım buttonuna bu github sayfasına yönlendirilmeniz gerek
+
+<div align="center">
+    <h3>Github Yardım Sayfası</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/450cd425-f84c-4abe-a38e-36f6a8358df2" width="1000">
+    <br>
+</div>
+
+---
+
+* Programda yer alan son sayfa ise Hakkında sayfasıdır, bu sayfada program hakkında özet olarak yazı yer almaktadır aynı zamanda bu programın özellikleri ve Yasir Alrawi tarafından geliştirlimiş olup Alrawi Firmasına ait olduğunu ve herhangi resmi bir kuruluşa ait olmadığını yer alıyor, Yasir Alrawi ismine tıklarsanız LinkedIn hesabıma yönlendirileceksiniz
+
+<div align="center">
+    <h3>Hakkında Sayfası</h3>
+    <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/7ec4e752-be08-492e-b313-bb64ec7db884" width="1000">
+    <br>
+</div>
+
+  
