@@ -105,7 +105,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Programda yer alan ikinci sayfası ise Ayarlar sayfası, Programı kullanırken 6 farklı tema ile kullanabilirsiniz, aynı zamanda ayarlardan programın bilgileri sıfırlayabilirsiniz veya programı kapatıp yeniden başlatabilmek için buttonları yer almaktadır.
+* Programın ikinci sayfası, `Ayarlar sayfasıdır`. Burada, programı kullanırken `6 farklı tema seçeneği bulunmaktadır`. Ayrıca, ayarlardan programın bilgilerini `sıfırlama` veya programı kapatıp `yeniden başlatma` seçeneklerine de erişebilirsiniz.
 
 <div align="center">
     <h3>Ayarlar Sayfası</h3>
@@ -115,7 +115,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Örnek olarak `Tomato` temasını seçersek bu şekilde olaracaktır
+* Örnek olarak `Tomato` temasını seçerseniz, arayüz şu şekilde görünecektir
 
 <div align="center">
     <h3>Tomato Teması</h3>
@@ -125,7 +125,8 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Programda yer alan üçüncü sayfa ise Yardım sayfası, programın kullanımı için github sayfasına yönlendirecek buttondur
+* Üçüncü sayfa, `Yardım sayfasıdır`. Bu sayfa, GitHub sayfasına yönlendirerek programın kullanımıyla ilgili `detaylı bilgileri içerir`.
+
 
 <div align="center">
     <h3>Yardım Sayfası</h3>
@@ -135,7 +136,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Yardım buttonuna bu github sayfasına yönlendirilmeniz gerek
+* Yardım butonuna tıkladığınızda, bu `GitHub` sayfasına yönlendirileceksiniz.
 
 <div align="center">
     <h3>Github Yardım Sayfası</h3>
@@ -145,7 +146,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Programda yer alan son sayfa ise Hakkında sayfasıdır, bu sayfada program hakkında özet olarak yazı yer almaktadır aynı zamanda bu programın özellikleri ve Yasir Alrawi tarafından geliştirlimiş olup Alrawi Firmasına ait olduğunu ve herhangi resmi bir kuruluşa ait olmadığını yer alıyor, Yasir Alrawi ismine tıklarsanız LinkedIn hesabıma yönlendirileceksiniz
+* Programın son sayfası `Hakkında sayfasıdır`. Bu bölümde, programın özellikleri ve geliştirilme süreci hakkında detaylı bilgi sunulur. Ayrıca, programın geliştiricisi Yasir Alrawi tarafından oluşturulduğu ve `Alrawi Firmasına ait` olduğu ifade edilir. Programın `resmi bir kuruluşa ait olmadığı yazılır`. Ayrıca, geliştirici `Yasir Alrawi'nin adına tıkladığınızda LinkedIn hesabına yönlendirileceksiniz`.
 
 <div align="center">
     <h3>Hakkında Sayfası</h3>
