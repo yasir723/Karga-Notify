@@ -7,7 +7,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 * Bir dersin bilgilerinde değişiklik olunca bildirim gönderme
 
 ## Hakkında
-Bu program [Yasir Alrawi](https://www.linkedin.com/in/yasir-alrawi/) tarafından geliştirilmiş ve tüm hakları Alrawi firmasına aittir. Program, resmi bir kuruluşa ait değildir.
+> Bu program [Yasir Alrawi](https://www.linkedin.com/in/yasir-alrawi/) tarafından geliştirilmiş ve tüm hakları Alrawi firmasına aittir. Program, resmi bir kuruluşa ait değildir.
 
 ## Kullanımı
 * İlk açıldığında bu şekilde bir pencere göreceksiniz
