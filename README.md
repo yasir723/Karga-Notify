@@ -25,7 +25,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Programı ilk açtığınızda, sol alt kısımdaki alanda herhangi bir bilgi bulunmayacaktır. Ancak programı kullanmaya başladıktan sonra, bu alanda en son açıklanan dersin bilgileri görünecektir. `Bu işlem sadece geçmişte aldığınız ve geçtiğiniz dersleri gösterir`.
+* Programı ilk açtığınızda, sol alt kısımdaki alanda herhangi bir bilgi bulunmayacaktır. Ancak programı kullanmaya başladıktan sonra, bu alanda en son açıklanan dersin bilgileri görünecektir. `Bu işlem sadece geçtiğiniz dersleri gösterir, kaldığınız dersleri göstermez`.
 <div align="center">
     <h3>Son Açıklanan Ders</h3>
     <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/073ccd7e-909f-4958-a116-e766661e3f0a" width="1000">
@@ -34,7 +34,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Programı başlatıp giriş sayfasına girmek için başlat buttonuna basmanız gerek
+* Programı başlatıp giriş sayfasına ulaşmak için `BAŞLAT` butonuna tıklamanız gerekmektedir.
 
 <div align="center">
     <h3>Programı Başlatıma</h3>
@@ -44,7 +44,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Ardından öğrenci hesabı kullanarak giriş yapmanız gerekir
+* Daha sonra öğrenci hesabınızı kullanarak giriş yapmanız gerekmektedir.
 
 <div align="center">
     <h3>KKÜ Giriş Sayfası</h3>
@@ -54,7 +54,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Giriş yaptıktan sonra herhangi bir işlem yapmamanız gerek, program gerekli yönlendirmeler yapacaktır
+* Giriş yaptıktan sonra `herhangi bir işlem yapmanıza gerek yoktur`; program otomatik olarak gerekli yönlendirmeleri yapacaktır.
 
 <div align="center">
     <h3>Portal Sayfası</h3>
@@ -64,7 +64,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Öğrenci işleri ana sayfası açıldığında herhangi bir işlem yapmamanız gerekir, 10 saniye bekledikten sonra not bilgisi sayfasına yönlendirilme yapılacaktır
+* Öğrenci işleri ana sayfası açıldığında herhangi bir işlem yapmanıza gerek yoktur. Otomatik olarak 10 saniye bekledikten sonra `Not Bilgisi` sayfasına yönlendirileceksiniz.
 
 <div align="center">
     <h3>Öğrenci Bilgi Sistemi Ana Sayfası</h3>
@@ -74,7 +74,8 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* 10 saniye bekledikten sonra program otomatik olarak Not Bilgisi sayfasına yönlendirir ve ardından 20 saniye içerisinde bildirimlere izin vermeniz gerekir aksi takdirde bildirim alamayacaksınız, bu sorunu düzeltmek için `DORDUR` buttonuna tıklayarak tekrar `BAŞLAT` buttonuna tıklamanız gerekir ve giriş işlemi yeniden yapmanız gerekecekir. Bildirimlere izin verdikten sonra tarayıcı otomatik olarak arka planda çalışmaya devam edecektir.
+* 10 saniye bekledikten sonra, program otomatik olarak Not Bilgisi sayfasına yönlendirir. Ardından, 20 saniye içinde bildirimlere izin vermeniz gerekir. Aksi takdirde bildirim alamazsınız. Bu sorunu çözmek için `DONDUR` düğmesine tıklayarak tekrar `BAŞLAT` düğmesine tıklamanız ve giriş işlemini yeniden yapmanız gerekecektir. Bildirimlere izin verdikten sonra, tarayıcı otomatik olarak arka planda çalışmaya devam eder.
+
 
 <div align="center">
     <h3>Bildirimlere İzin Verme</h3>
@@ -84,7 +85,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* 20 saniye bekledikten sonra ve tarayıcı arka planda çalışmaya başladıktan 10 saniye sonra ders bilgileri güncel olarak programda göreceksiniz ve yeni açıklanan bir ders varsa hem bildirim olarak gelecektir hem de ders listesinde güncel olarak yer alacaktır aynı zamanda yeni açıklanan derslerden geçtiğseniz yeşil kaldığınız dersten kırmızı arka planlı olacaktır, böylece yeni açıklanan dersleri daha hızlı bir şekilde fark etmenize yardımcı olacaktır. Bir diğer yandan son açıklanan dersten eğer geçtiyseniz sol alt panelde devamlı olarak yer alacaktır.
+* 20 saniye bekledikten sonra ve tarayıcı arka planda çalışmaya başladıktan 10 saniye sonra, ders bilgilerini programda güncel olarak göreceksiniz. Eğer yeni açıklanan bir ders varsa, hem bir bildirim olarak alacaksınız hem de ders listesinde güncel olarak yer alacaktır. Ayrıca, `yeni açıklanan derslerden geçtiyseniz, yeşil kaldıysanız kırmızı arka planla gösterilecektir`. Bu sayede yeni açıklanan dersleri daha hızlı fark edebileceksiniz. Diğer yandan, `eğer son açıklanan dersten geçtiyseniz, sol alt panelde sürekli olarak yer alacaktır`.
 
 <div align="center">
     <h3>Programda Ders Listesi</h3>
