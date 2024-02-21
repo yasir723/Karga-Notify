@@ -95,7 +95,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Program açıkken yeni bir ders açıklandığında size bu şekilde bildirim gelecektir, bu bildirimde yeni açıklanan sınav adı ve değeri aynı zamanda bu dersin bilgileri gösterecektir.
+* Program açıkken yeni bir ders açıklandığında, bu şekilde bir bildirim alacaksınız. `Bildirimde yeni açıklanan sınavın adı ve değeri yer alacak`, aynı zamanda bu dersin tüm bilgileri de gösterilecektir.
 
 <div align="center">
     <h3>Bildirim</h3>
