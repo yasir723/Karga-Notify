@@ -13,8 +13,9 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 ---
 
 
-* Hızlı giriş yapmak için giriş bilgileri programda kaydedebilirsiniz, öylece giriş sayfasını her açıldığında giriş bilgileri otomatik olarak girilir, işiniz sadece captcha çözmek olacaktır.
-`Giriş bilgileri kaydedemezseniz hiç bir sorun olmaz` sadece her seferinde giriş sayfasında giriş bilgileri elle girmeniz gerekecektir.
+
+* Giriş bilgilerinizi programda kaydederek hızlı bir şekilde giriş yapabilirsiniz. Böylece her defasında giriş sayfasında bilgileriniz otomatik olarak doldurulur ve size sadece captcha'yı çözmek kalır.
+`Eğer giriş bilgilerinizi kaydetmezseniz hiç bir sorun olmaz` sadece her seferinde giriş sayfasına elle bilgilerinizi girmeniz gerekir.
 
 <div align="center">
     <h3>Giriş Bilgileri Alanı</h3>
@@ -24,8 +25,7 @@ Bir not takip uygulamasıdır. Öğrencilerin aldıkları derslerle ilgili bilgi
 
 ---
 
-* Programı ilk açtığınızda sol alt kısımdaki alan boş olarak göreceksiniz ancak kullandıktan sonra bu alana son açıklanan ders yer alacaktır, bu işlem kaldığınız dersleri kaydetmeyecek, sadece geçtiğiniz dersler bu alanda görebilirsiniz.
-
+* Programı ilk açtığınızda, sol alt kısımdaki alanda herhangi bir bilgi bulunmayacaktır. Ancak programı kullanmaya başladıktan sonra, bu alanda en son açıklanan dersin bilgileri görünecektir. `Bu işlem sadece geçmişte aldığınız ve geçtiğiniz dersleri gösterir`.
 <div align="center">
     <h3>Son Açıklanan Ders</h3>
     <img src="https://github.com/yasir723/Karga-Notify/assets/111686779/073ccd7e-909f-4958-a116-e766661e3f0a" width="1000">
